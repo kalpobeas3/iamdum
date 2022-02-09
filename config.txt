@@ -1,0 +1,9 @@
+{
+
+	"ip":"kalpobeas3.aternos.me",
+
+	"port": "31115",
+
+	"name": "urmom"
+
+}
